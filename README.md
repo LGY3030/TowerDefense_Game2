@@ -1,4 +1,4 @@
-# Tower_Defense_Game_Try_2
+# TowerDefense_Game2
 A tower defense game (QT)
 ## Game
 ### Menu
